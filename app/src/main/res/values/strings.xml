@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">SuggestionBoxKotlin</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- Databing Spinners-->
+    <string-array name="objetivos">
+        <item>Sugestão</item>
+        <item>Elogio</item>
+        <item>Reclamação</item>
+        <item>Comentário</item>
+    </string-array>
+
+    <string-array name="cursos">
+        <item>Administração</item>
+        <item>Informática</item>
+        <item>Logística</item>
+    </string-array>
+
+
+    <string name="title_activity_list">ListActivity</string>
+    <string name="title_activity_alunos_main">AlunosMainActivity</string>
+</resources>

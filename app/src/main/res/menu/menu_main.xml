@@ -1,0 +1,10 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.etecartur.esdras.suggestionboxkotlin.MainActivity">
+    <item
+        android:id="@+id/sugestoes"
+        android:orderInCategory="100"
+        android:title="Sugestões"
+        app:showAsAction="never" />
+</menu>
